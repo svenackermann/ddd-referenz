@@ -19,7 +19,6 @@ und bei unserem Arbeitgeber INNOQ, der dieses Projekt unterstützt
 hat.
 
 Wir freuen uns natürlich über Feedback - zum Beispiel als Issue im
-Github Projekt:
-[https://github.com/ddd-referenz/ddd-referenz](https://github.com/ddd-referenz/ddd-referenz).
+[Github Projekt](https://github.com/ddd-referenz/ddd-referenz).
 
 {pagebreak}
