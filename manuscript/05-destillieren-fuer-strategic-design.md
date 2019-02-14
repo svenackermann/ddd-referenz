@@ -51,7 +51,7 @@ ausgefeilt sein werden. Es müssen Prioritäten gesetzt werden. Um das
 Domänenmodell zu einem Wert zu machen, muss der kritische Kern dieses
 Modells schlank sein und vollständig genutzt werden, um
 Anwendungsfunktionalitäten zu erstellen. Aber die wenigen
-hochqualifizierte Entwickler neigen dazu, sich auf die technische
+hochqualifizierten Entwickler neigen dazu, sich auf die technische
 Infrastruktur oder sauber definierbare Domänenprobleme zu konzentrieren,
 die ohne spezielle Domänenkenntnisse verstanden werden können.
 
@@ -105,7 +105,7 @@ Domänenwissen gewinnen). Erwäge auch Standardlösungen oder
 Zu Beginn eines Projekts existiert das Modell in der Regel noch gar
 nicht, aber seine Entwicklung muss schon fokussiert werden. In
 späteren Entwicklungsstadien muss der Wert des Systems erklärt werden,
-ohne dass man dazu das Modells eingehend studieren muss. Auch können
+ohne dass man dazu das Modell eingehend studieren muss. Auch können
 sich kritische Aspekte des Domänenmodells über mehrere [Bounded
 Contexts](#bounded-context) erstrecken, aber per Definition können
 diese unterschiedlichen Modelle nicht so strukturiert werden, dass sie 
@@ -117,7 +117,7 @@ Daher:
 Domain](#core-domain) und des Wertes, den sie bringen wird, das
 "Leistungsversprechen". Ignoriere Aspekte, die dieses Domänenmodell
 nicht von anderen unterscheiden. Zeige, wie das Domänenmodell
-verschiedenen Interessen dient und sie ausgleicht. Halten diese Aussage 
+verschiedenen Interessen dient und sie ausgleicht. Halte diese Aussage 
 kurz. Schreibe sie frühzeitig und überarbeite sie,
 wenn du neue Erkenntnisse gewinnst.**
 
@@ -207,10 +207,10 @@ Verfügung. Nun können sich die anderen Elemente der Domäne darauf
 konzentrieren, das Problem auszudrücken ("was") und die Feinheiten der
 Lösung ("wie") an das Framework delegieren.**
 
-**[Generic Subdomains](#generic-subdomain) herauszufaktorisiern reduziert die
+**[Generic Subdomains](#generic-subdomain) herauszufaktorisieren reduziert die
 Unübersichtlichkeit, und [Cohesive Mechanisms](#cohesive-mechanism) dienen dazu, komplexe
 Vorgänge zu kapseln. Dies hinterlässt ein fokussierteres Modell mit
-weniger störenden Ablenkungen, welche die Benutzer bei ihren Aktivitäten
+weniger störenden Ablenkungen, welche den Benutzern bei ihren Aktivitäten
 keinen besonderen Wert bieten. Aber du wirst kaum einen guten Platz für 
 alles im Domänenmodell finden, was nicht
 zum Kern gehört. Der [Segregated Core](#segregated-core) verfolgt
